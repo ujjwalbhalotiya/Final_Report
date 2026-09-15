@@ -12,8 +12,8 @@ The project applies machine learning techniques to identify the determinants of 
 |------|-------------|
 | **VariablesDocumentation.xlsx** | Processed variable dictionary containing metadata for the Global Findex variables, including variable names, descriptions, selection status, and documented inclusion and exclusion decisions used during variable selection. |
 | **combined_dataset_weight.csv** | Reference dataset created by integrating the World Bank Global Findex Database with the World Bank Country and Lending Groups dataset. This dataset serves as the primary input for the analysis. |
-| **DataAnalyticsFinal.py** | Python script containing final data analysis procedures, including data preprocessing, exploratory data analysis, survey-weighted analyses, feature preparation, machine learning model development, and model evaluation for the research questions. |
-| **data_compilation_code.py** | Python script used to compile and integrate the source datasets, including merging the Global Findex dataset with the World Bank Country and Lending Groups classification data and generating the combined analytical dataset. |
+| **DataAnalyticsFinal.pynb** | Python script containing final data analysis procedures, including data preprocessing, exploratory data analysis, survey-weighted analyses, feature preparation, machine learning model development, and model evaluation for the research questions. |
+| **data_compilation_code.pynb** | Python script used to compile and integrate the source datasets, including merging the Global Findex dataset with the World Bank Country and Lending Groups classification data and generating the combined analytical dataset. |
 
 ## Project Objectives
 
